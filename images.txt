@@ -1,1 +1,1 @@
-harbor.local.com/elk/elasticsearch:8.9.1
+elasticsearch:8.9.1
