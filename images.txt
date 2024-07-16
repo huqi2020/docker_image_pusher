@@ -1,1 +1,1 @@
-docker.elastic.co/eck/eck-operator:2.9.0
+harbor.local.com/elk/elasticsearch:8.9.1
