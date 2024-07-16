@@ -1,6 +1,1 @@
-redis:6-alpine
-mariadb:10.6
-dragonflyoss/manager:latest
-dragonflyoss/dfdaemon:latest
-dragonflyoss/scheduler:latest
-dragonflyoss/dfdaemon:latest
+docker.elastic.co/eck/eck-operator:2.9.0
