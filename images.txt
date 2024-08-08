@@ -1,1 +1,1 @@
-nginx:alpine
+sonobuoy/sonobuoy:v0.53.2
