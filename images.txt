@@ -1,1 +1,1 @@
-fluentd_elasticsearch/fluentd:v2.5.2
+fluentd:v2.5.2
