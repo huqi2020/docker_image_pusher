@@ -1,1 +1,1 @@
-alpine:3.6
+kibana:7.4.2
