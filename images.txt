@@ -1,1 +1,2 @@
 openkruise/kruise-manager:v1.3.0
+openkruise/kruise-manager:v1.3.0
