@@ -1,2 +1,3 @@
-busybox
-prom/prometheus:v2.19.2
+node-exporter:v1.0.1
+prometheus-webhook-dingtalk:master
+alertmanager:v0.21.0
