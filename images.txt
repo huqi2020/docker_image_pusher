@@ -1,2 +1,2 @@
-grafana/loki:latest
-grafana/promtail:latest
+busybox
+prom/prometheus:v2.19.2
